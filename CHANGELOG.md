@@ -1,10 +1,18 @@
 # Changelog
 
-Todas las modificaciones relevantes de este proyecto se documentarán en este archivo.
+## [v1.2] - 2026-07-27
+### Agregado
+- Integración final de la sección de Formato y Fundamentos (Aporte Persona 1).
+- Archivo `manual-completo.md` unificado con todo el contenido.
+- PDF final del manual (`manual-completo.pdf`) en la raíz del proyecto.
+- README.md actualizado con instrucciones definitivas.
+
+### Corregido
+- Resolución de conflictos de fusión en CHANGELOG.md al integrar ambas ramas.
 
 ## [v1.1] - 2026-07-27
 ### Agregado
-- Sección completa sobre Organización, Gestión de Tiempos y Presentación (Aporte Persona 2  Erneso Rengifo).
+- Sección completa sobre Organización, Gestión de Tiempos y Presentación (Aporte Persona 2).
 - Issues de gestión de tareas cerrados y completados.
 
 ### Cambiado

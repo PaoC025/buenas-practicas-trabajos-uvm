@@ -13,8 +13,11 @@ organización, gestión de tiempos, formatos, citación y presentación.
 - `/referencias` → fuentes y bibliografía de apoyo
 
 ## 👥 Autores
-- Paola Crespo – Formato y citación APA
-- Ernesto Rengifo – Organización, gestión de tiempos y presentación
+- integrante 1: Paola Crespo – Formato y citación APA
+- integrante 2: Ernesto Rengifo – Organización, gestión de tiempos y presentación
 
-## 🚧 Estado
-En desarrollo. Ver [CHANGELOG.md](./CHANGELOG.md) para historial de versiones.
+##  Instrucciones de Uso
+Para clonar y utilizar este repositorio:
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/PaoC025/buenas-practicas-trabajos-uvm.git
